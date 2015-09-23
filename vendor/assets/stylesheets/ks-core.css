@@ -1,0 +1,11 @@
+html {
+	background-color: #fdf6e3;
+	color: #657b83;
+	font-family: Sans-Serif;
+}
+
+p.alert {
+	background-color: #dc322f;
+	padding: 2em;
+	border: 1px solid #657b83;
+}
